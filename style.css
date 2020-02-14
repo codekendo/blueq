@@ -11,6 +11,11 @@
     height: 100vh;
 }
 
+p{
+  font-size: 1.25rem;
+  line-height: 1rem;
+}
+
 .flex-center{
   display:flex;
   flex-direction: column;
