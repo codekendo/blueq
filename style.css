@@ -15,6 +15,10 @@
   font-size: 1.25rem;
 }
 
+label{
+  font-size: 1.25rem;
+}
+
 .flex-center{
   display:flex;
   flex-direction: column;
